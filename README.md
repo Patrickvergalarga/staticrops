@@ -1,5 +1,5 @@
 # staticrops
-Calculation of statistics from annotated CVAT images using Datumaro datasets
+Calculation of statistics from annotated CVAT images using Datumaro datasets.
 # Dependencies
 python 3.9.13
 
@@ -25,7 +25,9 @@ six==1.16.0
 
 # instructions
 run `plots.py`
-This will print a number of usefull statistics and draw plots out form the .json files
 
+This will print a number of usefull statistics and draw plots out form the .json files.
+
+In case you want to add more .json files, please add these to the Directories of the corresponding species.
 # tested on
 macOS 10.15.7
