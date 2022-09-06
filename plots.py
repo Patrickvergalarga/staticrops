@@ -1,7 +1,7 @@
 import datetime
 
 import matplotlib.pyplot as plt
-from pipeline2 import Specie, Tray
+from pipeline import Specie, Tray
 from csv_files.annotation_times import dictionary_annotations_time_per_species
 
 
